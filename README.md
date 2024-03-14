@@ -1,2 +1,16 @@
-# advanced-frontends-designcourse
-Learn how to build modern, interactive frontends with Gary Simon
+# AdvancedFrontends
+Learn how to build modern, interactive frontends with Gary Simon.
+
+* SIMPLE TWEENS (FROM, TO, FROMTO)
+* STAGGER ANIMATIONS
+* FOUC & CONTROLLING TWEENS
+* SCROLL ANIMATIONS (SCROLLTRIGGER)
+* TOGGLEACTIONS
+* TEXT EFFECTS (SVG, SPLITTYPE)
+* SVG MASKS
+* HORIZONTAL SCROLLERS
+* 3D IN BROWSER (THREEJS)
+* MASKING TECHNIQUES
+* EASING
+
+[Designcourse.com](https://designcourse.com/af)
